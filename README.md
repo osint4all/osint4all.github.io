@@ -1,7 +1,7 @@
 OSINT4ALL
 =========
 
-# START.ME: https://start.me/p/L1rEYQ/osint4all
+#### START.ME: https://start.me/p/L1rEYQ/osint4all
 
 ## THROWAWAY CONTACT
 
@@ -125,7 +125,7 @@ Disposable Secure Browser or Desktop
 
 [unfurl](https://dfir.blog/unfurl/)
 
-[Wolfram|Alpha](https://www.wolframalpha.com/)
+[Wolfram Alpha](https://www.wolframalpha.com/)
 
 [Cryptpad.fr](https://cryptpad.fr/)
 
