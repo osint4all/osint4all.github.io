@@ -1,8 +1,6 @@
 OSINT4ALL
 =========
 
-#### START.ME: https://start.me/p/L1rEYQ/osint4all
-
 ## THROWAWAY CONTACT
 
 [10minutemail.com](https://10minutemail.com/)
