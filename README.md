@@ -243,7 +243,7 @@ Disposable Secure Browser or Desktop
 
 [transfer.sh](https://transfer.sh/)
 
-[Upload | Disroot](https://disroot.org/en/services/upload)
+[Upload \| Disroot](https://disroot.org/en/services/upload)
 
 [Chibisafe.moe](https://chibisafe.moe/)
 
@@ -519,7 +519,7 @@ Disposable Secure Browser or Desktop
 
 [DFIR Diva](https://dfirdiva.com/hooked-on-osint/)
 
-[Boolean Strings | Tools](https://booleanstrings.com/tools/)
+[Boolean Strings \| Tools](https://booleanstrings.com/tools/)
 
 [osintme.com](https://www.osintme.com/)
 
@@ -1941,7 +1941,7 @@ newest submissions : multi
 
 [git-hound](https://github.com/tillson/git-hound)
 
-[Webfinery | Source Code Search](https://webfinery.com/search)
+[Webfinery \| Source Code Search](https://webfinery.com/search)
 
 [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search)
 
@@ -2137,7 +2137,7 @@ newest submissions : multi
 
 [Live World Webcam](http://liveworldwebcam.net/)
 
-[Live Cams | Iplivecams](https://www.iplivecams.com/live-cams/)
+[Live Cams \| Iplivecams](https://www.iplivecams.com/live-cams/)
 
 [Webcamtaxi](https://www.webcamtaxi.com/en/)
 
@@ -2275,7 +2275,7 @@ This a website transcribing scanner feeds to text in real-time, in response to r
 
 [ArcGIS Wildfire Map](https://www.arcgis.com/home/webmap/viewer.html?webmap=df8bcc10430f48878b01c96e907a1fc3#!)
 
-[Living Atlas of the World | ArcGIS](https://livingatlas.arcgis.com/en/browse/)
+[Living Atlas of the World \| ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 
 [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/)
 
@@ -2435,7 +2435,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 [Raklet](http://iwr4usy33opfclmbyemzbmnwwnmmqpqltezpac7fyqqkdv3mabtm6kqd.onion.pet/)
 
-[Tool | path](https://learnmeabitcoin.com/tools/path/)
+[Tool \| path](https://learnmeabitcoin.com/tools/path/)
 
 ## DATA DUMP
 
@@ -2479,7 +2479,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 ## VOTER DATABASES
 
-[Search for US Voters with Custom Search Engines #OSINT | Boolean Strings](https://booleanstrings.com/2021/07/15/search-for-us-voters-with-custom-search-engines-osint/)
+[Search for US Voters with Custom Search Engines #OSINT \| Boolean Strings](https://booleanstrings.com/2021/07/15/search-for-us-voters-with-custom-search-engines-osint/)
 
 [Washington State Voter Database](http://www.soundpolitics.com/voterlookup.html)
 
@@ -2517,7 +2517,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 [Unicorn Riot: Discord Leaks](https://discordleaks.unicornriot.ninja/discord/)
 
-[Data | DDoSecrets Search](https://search.ddosecrets.com/data/)
+[Data \| DDoSecrets Search](https://search.ddosecrets.com/data/)
 
 [Parler Archive Search](https://parler.adatascienti.st/research)
 
@@ -2723,7 +2723,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 [How many untested rape kits does your city police department or county sheriff's office have?](https://datawrapper.dwcdn.net/uOdaT/4/)
 
-[Gun Dealer Inspections | The Trace](https://projects.thetrace.org/inspections/)
+[Gun Dealer Inspections \| The Trace](https://projects.thetrace.org/inspections/)
 
 [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/)
 
@@ -2893,7 +2893,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 [Yearbooks](https://www.e-yearbook.com/)
 
-[Yearbooks | High School Yearbooks | Ancestry](https://www.ancestry.com/search/collections/1265/)
+[Yearbooks \| High School Yearbooks \| Ancestry](https://www.ancestry.com/search/collections/1265/)
 
 [Yearbooks - MyHeritage](https://www.myheritage.com/research/category-10010/yearbooks)
 
@@ -2901,7 +2901,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 [data.occrp.org](https://data.occrp.org/)
 
-[The Pegasus Project | OCCRP](https://cdn.occrp.org/projects/project-p/#/)
+[The Pegasus Project \| OCCRP](https://cdn.occrp.org/projects/project-p/#/)
 
 [COP26 registered attendees](https://datawrapper.dwcdn.net/UCUWs/3/)
 
@@ -3019,7 +3019,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 [www.infogo.gov.on.ca/infogo/home.html](https://www.infogo.gov.on.ca/infogo/home.html)
 
-[Employee Contact Directory Search | novascotia.ca](https://novascotia.ca/psc/geds/)
+[Employee Contact Directory Search \| novascotia.ca](https://novascotia.ca/psc/geds/)
 
 [Search for Open Information Documents](https://www2.gov.bc.ca/gov/search?id=0882CD53C45A4AE1A42D5E22D8712AD8)
 
@@ -3067,7 +3067,7 @@ A bunch of geospatial intelligence workflows implemented using Python.
 
 [Search for Company Documents](https://www.sedar.com/search/search_form_pc_en.htm)
 
-[Business Directory | OCC](https://occ.ca/business-directory/)
+[Business Directory \| OCC](https://occ.ca/business-directory/)
 
 [Rechercher par entreprise](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Entreprise)
 
