@@ -1695,6 +1695,8 @@ newest submissions : multi
 
 [hue.tools](https://hue.tools/)
 
+[Sealed Rose Deepfake & Media Verifier](https://sealedrose.com/verify-video)
+
 ## LICENSE PLATE / VIN / VEHICLE
 
 [Plate Recognizer](https://platerecognizer.com/)
